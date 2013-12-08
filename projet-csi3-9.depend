@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1364554538 source:c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\calcul.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"divers.h"
+	"calcul.h"
+
+1364554597 c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\divers.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1364554511 c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\calcul.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1364586611 source:c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\divers.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"divers.h"
+
+1364586628 source:c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\filtrefir.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"divers.h"
+
+1364978706 source:c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\filtreiir.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"divers.h"
+
+1364980565 source:c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\lecture.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"divers.h"
+	"lecture.h"
+
+1364980327 c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\lecture.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1364981357 source:c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"menu.h"
+	"divers.h"
+	"lecture.h"
+	"affichage.h"
+	"calcul.h"
+	"filtreFIR.h"
+	"filtreIIR.h"
+
+1364590172 c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1364552785 c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1364589883 c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\filtrefir.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1364556582 c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\filtreiir.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1364585945 source:c:\users\corentin\documents\mes docs\prog\csi3\projet-csi3-9\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"affichage.h"
+	"divers.h"
+
